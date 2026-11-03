@@ -1,5 +1,6 @@
 # Discord-Token-Stealer
 Used for testing purposes only; intended for educational use. I accept no responsibility for how it is used. 
+
 Discord: r1yat
 
 <img src="https://i.imgur.com/bgzXG95.png" width="700">
