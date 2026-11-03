@@ -1,0 +1,17 @@
+{
+    "webhook_urls": ["https://discord.com/api/webhooks/YOUR_ID/YOUR_TOKEN"],
+    "avatar_url": "https://i.imgur.com/tutbFyu.jpeg",
+    "embed_color": 1752220,
+    "timeout": 10,
+    "silent_mode": false,
+    "dry_run": false,
+    "save_to_file": true,
+    "backup_file": "r1yat_backup.txt",
+    "max_threads": 20,
+    "random_delays": true,
+    "min_delay": 0.01,
+    "max_delay": 0.05,
+    "webhook_retry_count": 3,
+    "webhook_retry_delay": 2.0,
+    "exe_icon": "NONE"
+}
